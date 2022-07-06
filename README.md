@@ -255,5 +255,3 @@ mrview
 ## 問い合わせ
 
 - 準備がうまくいかない時は、メールで案内した Slack の事前準備チャンネルで問い合わせ下さい。
-
-- [nipstcfmri2022.slack.com](https://nipstcfmri2022.slack.com/)
