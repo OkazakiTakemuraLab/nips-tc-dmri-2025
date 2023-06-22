@@ -11,9 +11,9 @@
 
 ## スタッフ（運営、講師、チューター）
 
-- 講師：生理学研究所　感覚認知情報研究部門 教授 竹村浩昌
-- チューター：生理学研究所　感覚認知情報研究部門 特任研究員（NIPSリサーチフェロー） 宮田季和
-- チューター：総合研究大学院大学 生理科学コース　博士課程大学院生 田熊大輝
+- 講師：生理学研究所 感覚認知情報研究部門 教授  竹村浩昌
+- チューター：生理学研究所 感覚認知情報研究部門 特任研究員（NIPSリサーチフェロー）  宮田季和
+- チューター：総合研究大学院大学 生理科学コース 博士課程大学院生  田熊大輝
 
 
 ## 開催案内
@@ -68,7 +68,7 @@
 14:30-14:45 | 休憩
 14:45-15:15 | 講義（９）：Tract Profile
 15:15-15:30 | 休憩
-15:30-16:15 | 外部講演（２）(録画)pyAFQ: John Kruper先生
+15:30-16:15 | 外部講演（２）（録画）pyAFQ: John Kruper先生
 16:15-16:30 | pyAFQの利用法に関するフォローアップ
 18:00- | オンライン懇親会（北城研と合同）
 7月28日 |
@@ -103,13 +103,13 @@
 
 ## Zoomの設定
 
-- トレーニングコースはZoomにて開催します
+- 本トレーニングコースはZoomにて開催します
 
-- Zoomは2022年7月1日現在、バージョン5.11.1になっています。こちらを入手してください
+- Zoomは2023年6月22日現在、バージョン5.15.0になっています。こちらを入手してください
     - 以下のリンクをクリックすることで、最新版のZoomを入手できます。(すでにインストールされている方でも以下のリンクからインストーラーを入手することでアップデートできます)
     - Windows: [https://zoom.us/client/latest/ZoomInstaller.exe](https://zoom.us/client/latest/ZoomInstaller.exe)
-    - macOS(Intel Core): [https://zoom.us/client/latest/Zoom.pkg](https://zoom.us/client/latest/Zoom.pkg)
-    - macOS(Apple M1): [https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64](https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64)
+    - MacOS(Intel Core): [https://zoom.us/client/latest/Zoom.pkg](https://zoom.us/client/latest/Zoom.pkg)
+    - MacOS(Apple M1): [https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64](https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64)
 
 - 画面の共有の設定だけ変更すると受講しやすくなります
     - Zoomを起動し、サインインをクリックします
@@ -138,11 +138,11 @@
 
 
 
- - Google Workspace ユーザーであるか、末尾が @gmail.com のアカウントまたは Gmail 以外の Google アカウントを持っている必要があります。持っていない方はGmailアカウントを作成してアドレスを竹村までお伝えください。​​​​​​
+ - Google Workspace ユーザーであるか、末尾が @gmail.com のアカウントまたは Gmail 以外の Google アカウントを持っている必要があります。お持ちでない方はGmailアカウントを作成してアドレスを竹村までお伝えください。​​​​​​
 
  - 受講者の皆様にメールで招待状が届きます。「Google Chatで開く」をクリックしてください。（Google Chatを使ったことがない場合、アカウントを有効化する画面が出てきます。「CHATを使ってみる」をクリックしてください。）
 
- - 日トレーニングコースでは、すべて実名でやりとりをしたいと思います。ニックネームではなく、ご自身の名前をフルネームで表示するようにしてください。（Googleアカウントを管理＞個人情報＞名前から表示名を変更することができます。）
+ - トレーニングコースでは、すべて実名でやりとりをしたいと思います。ニックネームではなく、ご自身の名前をフルネームで表示するようにしてください。（Googleアカウントを管理＞個人情報＞名前から表示名を変更することができます。）
 
 
 
@@ -206,4 +206,4 @@ mrview
 
 ## 問い合わせ
 
-- 準備がうまくいかない時は、メールで案内した Slack の事前準備チャンネルで問い合わせ下さい。
+- 準備がうまくいかない時は、Google Spaceで問い合わせ下さい。
