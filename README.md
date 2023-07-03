@@ -184,7 +184,7 @@
 ### 1. トレーニングコース用Lin4Neuroのセットアップ
 
 - **以下のページを参考にセットアップをして下さい**
-  - [生理研トレーニングコース用Lin4Neuroのセットアップ](https://kytk.github.io/nips-web-202208)
+  - [生理研トレーニングコース用Lin4Neuroのセットアップ](https://kytk.github.io/nips-web-202307/)
 
 - Lin4Neuroがセットアップできましたら、ターミナルウィンドウ上で 
 
