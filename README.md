@@ -96,7 +96,7 @@
    - ハードディスク：**<u>100GB以上の空き容量</u>** (外付けハードディスクも可)
    - 2ボタン以上のUSBマウス (必須ではありませんが、持っていると便利です)
  
-  - Lin4Neuroでの受講を推奨しますが、macOS native 環境で受講したい方々のために、インストラクションを準備しました。[こちら](https://kytk.github.io/nips-web-202208/macOS_native.html)をご確認ください 
+  - Lin4Neuroでの受講を推奨しますが、macOS native 環境で受講したい方々のために、インストラクションを準備しました。[こちら](https://kytk.github.io/nips-web-2024/macOS_native.html)をご確認ください 
 
 
 ----
